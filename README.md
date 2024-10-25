@@ -30,7 +30,6 @@ Mostrar la ubicacion actual en un mapa
 3. Ejecutar la aplicación en un dispositivo o emulador
 4. Asegurarse de que los permisos necesarios están configurados
    
-## Reporte de Vulnerabilidades El reporte detallado de las pruebas de vulnerabilidad
-realizadas se encuentra en el archivo.
+## Reporte de Vulnerabilidades
+El reporte detallado de las pruebas de vulnerabilidad realizadas se encuentra en el archivo.
 
-4. Ejecuta la aplicación en un dispositivo o emulador Android.
